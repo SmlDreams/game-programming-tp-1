@@ -17,5 +17,6 @@ public class Play : MonoBehaviour
     void LoadScene()
     {
         SceneManager.LoadScene("SampleScene");
+        
     }
 }
